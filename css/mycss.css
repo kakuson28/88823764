@@ -1,0 +1,29 @@
+
+so{
+    color: brown;
+    font-family: Zesos;
+}
+#myh1{
+    color: red;
+    font-size: 70px;
+    font-family: Zesos;
+    
+}
+*{
+    font-family: 
+    Zesos
+    ;
+}
+.header{
+    color: green;
+}
+.header2{
+    color: aqua;
+}
+.center{
+text-align: center;
+}
+@font-face {
+    font-family: Zesos;
+    src: url('C:\Users\AUG2021-12\Downloads\font\ZenDots-Regular');
+}
